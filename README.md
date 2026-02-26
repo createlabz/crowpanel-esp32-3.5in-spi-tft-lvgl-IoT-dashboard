@@ -46,7 +46,7 @@ Extract it anywhere on your computer.
 
 Open the file:
 
-crowpanel-esp32-3.5in-spi-tft-lvgl-IoT-dashboard.ino
+LVGL_SPI_.ino
 
 using Arduino IDE.
 
