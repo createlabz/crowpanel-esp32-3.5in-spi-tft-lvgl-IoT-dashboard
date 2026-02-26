@@ -60,7 +60,7 @@ You MUST install the correct versions:
 |----------|----------|
 | LVGL | 8.1.0 |
 | LovyanGFX | 1.2.19 |
-| ESP32 Arduino Core | 3.3.7 |
+| ESP32 Arduino Core | 2.3.7 |
 
 ⚠ Do NOT mix LVGL 8.3.x with this project.
 
